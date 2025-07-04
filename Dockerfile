@@ -1,0 +1,3 @@
+FROM emqx/emqx:latest
+
+EXPOSE 1883 8083 8883 8084 18083
